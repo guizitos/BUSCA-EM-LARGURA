@@ -65,8 +65,8 @@ python3 busca_largura.py
 
 Esse algoritmo pode ser modificado para:
 
-## Outros critérios de seleção de "vendedores" (como verificar diferentes padrões no nome).
-## Busca em diferentes tipos de redes (não apenas pessoas).
+- Outros critérios de seleção de "vendedores" (como verificar diferentes padrões no nome).
+- Busca em diferentes tipos de redes (não apenas pessoas).
 
 ## Licença
 
