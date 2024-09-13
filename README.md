@@ -14,27 +14,5 @@ O grafo é representado por um dicionário Python, onde:
 Exemplo:
 
 
-grafo = {
-    "voce": ["Bob", "Claire", "Alice"],
-    "Bob": ["Anuj", "Peggy"],
-    "Alice": ["Peggy"],
-    "Claire": ["Thom", "Jonny"],
-    "Anuj": [],
-    "Peggy": [],
-    "Thom": [],
-    "Jonny": []
-}
-```python
-grafo = {
-    "voce": ["Bob", "Claire", "Alice"],
-    "Bob": ["Anuj", "Peggy"],
-    "Alice": ["Peggy"],
-    "Claire": ["Thom", "Jonny"],
-    "Anuj": [],
-    "Peggy": [],
-    "Thom": [],
-    "Jonny": []
-}
----
-# kskkdkdkd
+
 
