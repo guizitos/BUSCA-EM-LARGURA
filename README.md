@@ -12,6 +12,7 @@ O grafo é representado por um dicionário Python, onde:
 - Os **valores** são listas de outras pessoas que estão diretamente conectadas a elas.
 
 Exemplo:
+
 ![Alt text](img1.png)
 
 
