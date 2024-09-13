@@ -24,3 +24,4 @@ grafo = {
     "Thom": [],
     "Jonny": []
 }
+Aqui, a pessoa "voce" está conectada a "Bob", "Claire", e "Alice", e assim por diante.
