@@ -15,5 +15,9 @@ Exemplo:
 
 ![Alt text](img1.png)
 
+Aqui, a pessoa "voce" está conectada a "Bob", "Claire", e "Alice", e assim por diante.
 
+### 2. Função para Verificar se Alguém é um Vendedor
+
+A função `pessoa_e_vendedor(nome)` verifica se uma pessoa é considerada um vendedor de manga com base em uma regra simples: se o último caractere do nome for `'m'`, a pessoa é identificada como um vendedor.
 
