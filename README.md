@@ -13,6 +13,17 @@ O grafo é representado por um dicionário Python, onde:
 
 Exemplo:
 
+
+grafo = {
+    "voce": ["Bob", "Claire", "Alice"],
+    "Bob": ["Anuj", "Peggy"],
+    "Alice": ["Peggy"],
+    "Claire": ["Thom", "Jonny"],
+    "Anuj": [],
+    "Peggy": [],
+    "Thom": [],
+    "Jonny": []
+}
 ```python
 grafo = {
     "voce": ["Bob", "Claire", "Alice"],
@@ -24,4 +35,6 @@ grafo = {
     "Thom": [],
     "Jonny": []
 }
-Aqui, a pessoa "voce" está conectada a "Bob", "Claire", e "Alice", e assim por diante.
+---
+# kskkdkdkd
+
