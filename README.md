@@ -31,4 +31,43 @@ A função `pesquisa(nome)` implementa a busca em largura para encontrar o vende
 
 Exemplo:
 
+![Alt text](img3.png)
 
+### Como Funciona?
+
+A função `pesquisa("voce")` faz o seguinte:
+
+1. Começa com as pessoas conectadas diretamente a `"voce"`.
+2. Verifica cada uma delas (e, em seguida, seus vizinhos) para encontrar alguém cujo nome termine com `'m'`.
+3. Se encontrar um vendedor, imprime uma mensagem e retorna `True`. Caso contrário, a busca continua até que todas as conexões sejam verificadas.
+
+### Exemplo de Saída
+Se rodarmos a função:
+`pesquisa("voce")`
+A saída será:
+Thom é um vendedor de manga!
+
+### Requisitos
+Python 3.x
+
+### Como Executar
+
+1. Clone este repositório:
+git clone https://github.com/guizitos/BUSCA-EM-LARGURA.git
+
+2. Navegue até o diretório:
+cd BUSCA-EM-LARGURA
+
+3. Execute o arquivo Python:
+python3 busca_largura.py
+
+### Expansão
+
+Esse algoritmo pode ser modificado para:
+
+## Outros critérios de seleção de "vendedores" (como verificar diferentes padrões no nome).
+## Busca em diferentes tipos de redes (não apenas pessoas).
+
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE.md para mais detalhes.
